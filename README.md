@@ -1,1 +1,14 @@
-# learning-c
+# Learning C
+
+This is a repository of various C-related exercices for me to accomplish in order to expand on and apply skills and concepts learned from Brian Kernighan's and Dennis Ritchie's **The C Programming Language, 2<sup>nd</sup> edition**. Below you can find a table of the chapters hyperlinked to their location in this repository. Each chapter contains solutions to exercises provided within the corresponding chapters. Alongside the hyperlinked chapter, you will find the concepts covered within the chapter and exercises.
+
+| Chapter | Concepts Covered |
+|---|---|
+| [1: A Tutorial Introduction](https://github.com/djbertolo/learning-c/tree/main/chapter-1) | Getting Started, Variables & Arithmetic Expressions, `for` Statement, Symbolic Constants, Character Input & Output, Arrays, Functions, Call-by-Value Arguments, Character Arrays, Scope: External Variables |
+| [2: Types, Operators, and Expressions](https://github.com/djbertolo/learning-c/tree/main/chapter-2) | Variable Names, Data Types & Sizes, Constants, Declarations, Arithmetic Operators, Relational & Logical Operators, Type Conversions, Increment & Decrement Operators, Bitwise Operators, Assignment Operators, Conditional Expressions, Precedence & Order of Evaluation |
+| [3: Control Flow](https://github.com/djbertolo/learning-c/tree/main/chapter-3) | Statements & Blocks, `if-else`, `else-if`, `switch`, `while` & `for` Loops, `do-while` Loops, `break` & `continue`, `goto` & Labels |
+| [4: Functions and Program Structure](https://github.com/djbertolo/learning-c/tree/main/chapter-4) | Basics of Functions, Functions Returning Non-integers, External Variables, Scope Rules, Header Files, Static Variables, Register Variables, Block Structure, Initialization, Recursion, The C Preprocessor |
+| [5: Pointers and Arrays](https://github.com/djbertolo/learning-c/tree/main/chapter-5) | Pointers & Addresses, Pointers & Function Arguments, Pointers & Arrays, Address Arithmetic, Character Pointers & Functions, Pointer Arrays, Multi-dimensional Arrays, Command-line Arguments, Pointers to Functions, Complicated Declarations |
+| [6: Structures](https://github.com/djbertolo/learning-c/tree/main/chapter-6) | Basics of Structures, Structures & Functions, Arrays of Structures, Pointers to Structures, Self-referential Structures, `typedef`, `union`, Bit-fields |
+| [7: Input and Output](https://github.com/djbertolo/learning-c/tree/main/chapter-7) | Standard I/O, Formatted Output (`printf`), Variable-length Argument Lists, Formatted Input (`scanf`), File Access, Error Handling (`stderr` & `exit`), Line I/O, Miscellaneous Functions |
+| [8: The UNIX System Interface](https://github.com/djbertolo/learning-c/tree/main/chapter-8) | File Descriptors, Low Level I/O (`read` & `write`), `open`, `creat`, `close`, `unlink`, Random Access (`lseek`), Example `fopen` Implementation, Example Directory Listing, Example Storage Allocator |
